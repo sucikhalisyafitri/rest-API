@@ -1,0 +1,48 @@
+[
+    {
+        "nama" : "Suci Khalisyafitri",
+        "umur" : 20,
+        "nim" : "2217020048",
+        "lulus" : true,
+        "hobby" : [
+            "badminton",
+            "travelling",
+            "singing"
+            
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Haditya Prasetyo",
+            "pembimbing 2" : "Raju Wandira"
+        }
+    },
+    {
+        "nama" : "Husna Haryadi",
+        "umur" : 20,
+        "nim" : "2217020070",
+        "lulus" : false,
+        "hobby" : [
+            "dance",
+            "singing",
+            "makan"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Ahmad fauzi",
+            "pembimbing 2" : "Novia lestari"
+        }
+    },
+    {
+        "nama" : "Dikka Hardilla",
+        "umur" : 20,
+        "nim" : "2217020071",
+        "lulus" : false,
+        "hobby" : [
+            "reading",
+            "watching",
+            "volly"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Ozzy Secia Riza",
+            "pembimbing 2" : "Muhammad Teguh Brillian"
+        }
+    }
+]
