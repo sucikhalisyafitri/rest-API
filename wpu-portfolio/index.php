@@ -63,7 +63,7 @@ $gambar1 = $resultGambar1['media_url'];
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#home">Sandhika Galih</a>
+        <a class="navbar-brand" href="#home">Suci Khalisyafitri</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -87,9 +87,9 @@ $gambar1 = $resultGambar1['media_url'];
     <div class="jumbotron" id="home">
       <div class="container">
         <div class="text-center">
-          <img src="img/profile1.png" class="rounded-circle img-thumbnail">
+          <img src="img/profil3.png" class="rounded-circle" img-thumbnail style="width: 250px; height: 250px; object-fit: cover; border: 5px solid #fff; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
           <h1 class="display-4">Suci Khalisyafitri</h1>
-          <h3 class="lead">Lecturer | Programmer | Youtuber</h3>
+          <h3 class="lead">Desainer | Programmer | UI/UX</h3>
         </div>
       </div>
     </div>
@@ -256,9 +256,9 @@ $gambar1 = $resultGambar1['media_url'];
             
             <ul class="list-group mb-4">
               <li class="list-group-item"><h3>Location</h3></li>
-              <li class="list-group-item">My Office</li>
-              <li class="list-group-item">Jl. Setiabudhi No. 193, Bandung</li>
-              <li class="list-group-item">West Java, Indonesia</li>
+              <li class="list-group-item">My Home</li>
+              <li class="list-group-item">Pakandangan</li>
+              <li class="list-group-item">Sumatera Barat</li>
             </ul>
           </div>
 
