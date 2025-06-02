@@ -10,73 +10,64 @@
       </div>
     </div>
 
-    <!-- Portfolio -->
-    <section class="portfolio" id="portfolio">
-      <div class="container">
-        <div class="row pt-4 mb-4">
-          <div class="col text-center">
-            <h2>About Me</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="<?= base_url(); ?>assets/img/thumbs/Mentawai.jpg" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Lahir di Padang pada tanggal 28 November 2003</p>
-              </div>
-            </div>
-          </div>
+   <!-- Portfolio -->
+<section class="portfolio" id="portfolio">
+  <div class="container">
+    <div class="row pt-4 mb-4">
+      <div class="col text-center">
+        <h2>About Me</h2>
+      </div>
+    </div>
 
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="<?= base_url(); ?>assets/img/thumbs/images.jpg" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Madrasah Tsanawiyah Swasta Modren Subulussalam.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="<?= base_url(); ?>assets/img/thumbs/maxresdefault.jpg" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Madrasah Aliyah Negeri 1 Padang Pariaman, Jurusan MIPA dan Lulus di Tahun 2022.</p>
-              </div>
-            </div>
-          </div>   
-        </div>
-
-        <div class="row">
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="<?= base_url(); ?>assets/img/thumbs/4.jpg" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Kuliah di Universitas Islam Negeri Imam Bonjol Padang angkatan 2022.</p>
-              </div>
-            </div>
-          </div> 
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="<?= base_url(); ?>assets/img/thumbs/5.jpg" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Fakultas Sains dan Teknologi dengan Program Studi Sistem Informasi.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md mb-4">
-            <div class="card">
-              <img class="card-img-top" src="<?= base_url(); ?>assets/img/thumbs/10.jpg" alt="Card image cap">
-              <div class="card-body">
-                <p class="card-text">Hobi saya badminton</p>
-              </div>
-            </div>
+    <div class="row justify-content-center">
+      <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+        <div class="card mx-auto">
+          <img class="card-img-top" src="<?= base_url('assets/img/thumbs/B.jpg'); ?>" alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">Lahir di Padang pada tanggal 28 November 2003</p>
           </div>
         </div>
       </div>
-    </section>
+
+      <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+        <div class="card mx-auto">
+          <img class="card-img-top" src="<?= base_url('assets/img/thumbs/C.jpg'); ?>" alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">Madrasah Aliyah Negeri 1 Padang Pariaman, Jurusan MIPA dan Lulus di Tahun 2022.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+        <div class="card mx-auto">
+          <img class="card-img-top" src="<?= base_url('assets/img/thumbs/4.jpg'); ?>" alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">Kuliah di Universitas Islam Negeri Imam Bonjol Padang angkatan 2022.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+        <div class="card mx-auto">
+          <img class="card-img-top" src="<?= base_url('assets/img/thumbs/5.jpg'); ?>" alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">Fakultas Sains dan Teknologi dengan Program Studi Sistem Informasi.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+        <div class="card mx-auto">
+          <img class="card-img-top" src="<?= base_url('assets/img/thumbs/D.jpg'); ?>" alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">Hobi saya badminton</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
 
     <!-- Contact -->
